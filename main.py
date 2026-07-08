@@ -152,4 +152,4 @@ async def stats(values: str = Query(...)):
         "max": max(nums),
         "mean": total / len(nums),
     }
->>>>>>> 9f3d154321a68fe079fef296198cb29d6625d501
+
