@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import time
 import uuid
 
@@ -98,7 +98,6 @@ def verify(req: VerifyRequest):
             status_code=401,
             content={"valid": False},
         )
-=======
 import time
 import uuid
 
